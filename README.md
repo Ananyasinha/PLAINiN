@@ -1,2 +1,2 @@
 # PLAINiN
-PLAINiN.XYZ Assignment
+PLAINiN.XYZ assignment 
